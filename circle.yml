@@ -12,7 +12,7 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: staging-spring-tests
+      appname: staging-spring-tests-klenner
 
 general:
   artifacts:
